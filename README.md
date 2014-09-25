@@ -1,7 +1,7 @@
 botox
 =====
 
-Refer to https://code.google.com/p/botox
+Refer to https://code.google.com/p/botox/source/browse/trunk/src
 
 DESCRIPTION
 ===========
