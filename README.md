@@ -19,7 +19,7 @@ USAGE
 =====
 
 		$ sudo apt-get install gcc automake autoconf libtool make
-		$ sudo chmod a+rwx configure
+		$ sudo chmod a+rx configure
 	
 	Edit conf.h with the desired command to execute, then:
 
