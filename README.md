@@ -18,6 +18,8 @@ DESCRIPTION
 USAGE
 =====
 
+		$sudo apt-get install gcc automake autoconf libtool make
+	
 	Edit conf.h with the desired command to execute, then:
 
 		$ ./configure && make
